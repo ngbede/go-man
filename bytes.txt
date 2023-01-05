@@ -1,0 +1,7 @@
+Byte slice: is an array where each element coresponds to an ascii character code for a coresponding string variable.
+asciitable.com
+
+
+Pointers: everything on pc is stored in RAM so an address links to a value on the ram.
+Go is a pass by value language i.e each time we pass some value to a func, GO takes the
+value and copies the data inside the struct and copies it into a new spot in RAM.
